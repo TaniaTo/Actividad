@@ -22,7 +22,8 @@ public class actividad55 {
         System.out.println("La suma es :"+ Suma);
         System.out.println("La resta es :"+ Resta);
         System.out.println("La Multiplicacion es :"+ Multiplicacion);
-        System.out.println("La Modulo es :"+ Modulo);
+        System.out.println("La division es:" + Division);
+        System.out.println("EL Modulo es :"+ Modulo);
 
 
     }
